@@ -1,4 +1,4 @@
-# Software Engineer - Data Engineering Team Interview Exercise
+# Software Engineer Interview Exercise
 
 ## Description
 
