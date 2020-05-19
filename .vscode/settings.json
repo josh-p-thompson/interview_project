@@ -1,0 +1,10 @@
+{
+    "python.pythonPath": "/Users/Josh/.local/share/virtualenvs/shipt_project-Q9f7cwqg/bin/python",
+    "python.linting.pylintEnabled": false,
+    "python.linting.pycodestyleEnabled": true,
+    "python.linting.enabled": true,
+    "[json]": {
+    
+    },
+    "python.linting.flake8Enabled": true
+}
